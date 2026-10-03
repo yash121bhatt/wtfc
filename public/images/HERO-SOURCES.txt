@@ -1,0 +1,6 @@
+hero-a-truck.jpg  <-  truck.jpg (trim 0)
+hero-b-members.jpg  <-  hero-1.jpg (trim 0)
+hero-c-yard.jpg  <-  events-3.jpg (trim 0.2)
+hero-d-gathering.jpg  <-  hero-3.jpg (trim 0.22)
+hero-e-career-fair.jpg  <-  events-1.jpg (trim 0.32)
+hero-f-vests.jpg  <-  events-2.jpg (trim 0.3)

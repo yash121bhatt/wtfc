@@ -1,0 +1,558 @@
+{
+  "common": {
+    "skipToContent": "Skip to main content",
+    "menu": "Menu",
+    "close": "Close",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "readMore": "Read more",
+    "viewAll": "View all",
+    "learnMore": "Learn more",
+    "loading": "Loading…",
+    "backToHome": "Back to home",
+    "page": "Page",
+    "newWindow": "opens in a new window"
+  },
+  "meta": {
+    "home": {
+      "title": "Women's Trucking Federation of Canada | Empowering Women in Trucking",
+      "description": "WTFC is a national non-profit advancing safety, opportunity, and inclusion across the Canadian trucking sector. Join a community empowering women in transportation."
+    },
+    "about": {
+      "title": "About Us | Women's Trucking Federation of Canada",
+      "description": "Learn about the Women's Trucking Federation of Canada — our purpose, our core objectives, and the milestones that shaped a decade of trucking advocacy."
+    },
+    "events": {
+      "title": "Events | Women's Trucking Federation of Canada",
+      "description": "Conferences, workshops, and networking events empowering women in the trucking industry across Canada."
+    },
+    "careers": {
+      "title": "Career Board | Women's Trucking Federation of Canada",
+      "description": "Discover trucking and transportation jobs from companies that value diversity and empower women in the workforce."
+    },
+    "contact": {
+      "title": "Contact Us | Women's Trucking Federation of Canada",
+      "description": "Questions about membership, events, or partnerships? Our team is ready to assist you on your journey in the trucking industry."
+    },
+    "join": {
+      "title": "Join WTFC | Women's Trucking Federation of Canada",
+      "description": "Become part of a supportive community that's driving change in the trucking industry. Individual and corporate membership available."
+    },
+    "impact": {
+      "title": "Annual Impact & Transparency | Women's Trucking Federation of Canada",
+      "description": "Where every dollar goes, what we delivered last year, and who governs the Women's Trucking Federation of Canada."
+    },
+    "notFound": {
+      "title": "Page not found | Women's Trucking Federation of Canada",
+      "description": "The page you are looking for has moved or no longer exists."
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "events": "Events",
+    "careers": "Career Board",
+    "impact": "Impact",
+    "contact": "Contact",
+    "join": "Join Us",
+    "memberLogin": "Member Login",
+    "adminLogin": "Admin Login",
+    "primary": {
+      "label": "Primary navigation"
+    },
+    "footer": {
+      "label": "Footer navigation"
+    },
+    "menuGroups": {
+      "getInvolved": "Get Involved",
+      "learnMore": "Learn More"
+    },
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu"
+  },
+  "langSwitcher": {
+    "label": "Switch Language",
+    "en": "English",
+    "fr": "Français"
+  },
+  "hero": {
+    "eyebrow": "Since 2016 · National non-profit",
+    "title": "Driving Change in Canada's Trucking Industry",
+    "subtitle": "And we hope you will join us as we shape the future of trucking.",
+    "body": "The Women's Trucking Federation of Canada (WTFC) is a national non-profit advancing safety, opportunity, and inclusion across the trucking sector. We empower women, engage youth, and unite drivers, technicians, trainers, executives, and male allies to build a modern, resilient, and diverse industry. Since 2016, we've grown into a powerful network grounded in mentorship, advocacy, and real-world impact — because this is not just an organization, it's a community.",
+    "scrollHint": "Scroll to explore",
+    "slideOf": "Slide {current} of {total}"
+  },
+  "quickLinks": {
+    "events": {
+      "title": "Upcoming Events",
+      "text": "View & register for conferences"
+    },
+    "registration": {
+      "title": "Conference Registration",
+      "text": "Register for Bridging the Barriers"
+    },
+    "awards": {
+      "title": "Awards & Nominations",
+      "text": "Woman With Impact & WTFC Awards"
+    }
+  },
+  "partners": {
+    "eyebrow": "Our Trusted Partners",
+    "title": "Supporting women in trucking through quality products and resources",
+    "cta": "Visit Website",
+    "ctaShop": "Shop Now",
+    "ctaWatch": "Watch Videos",
+    "footNote": "WTFC partners are building a safer, more inclusive industry — with better PPE, stronger teams, and real accountability."
+  },
+  "offer": {
+    "eyebrow": "What We Offer",
+    "title": "Diversity that Delivers",
+    "body": "From mentorship to advocacy, from youth engagement to professional standards — our programs turn good intentions into measurable change across every level of the industry.",
+    "items": {
+      "mentorship": {
+        "title": "Mentorship & Retention",
+        "text": "Paired with an experienced driver, mentor, or executive for at least six months. We have matched thousands of women with the people who keep them moving forward."
+      },
+      "youth": {
+        "title": "Youth & Schools",
+        "text": "Careers in Motion brings WTFC into classrooms, giving students a real look at modern trucking — technology, logistics, and the people behind it."
+      },
+      "advocacy": {
+        "title": "Advocacy & Policy",
+        "text": "We bring industry voices into the room on safety, fair opportunity, and the recognition of drivers as skilled professionals."
+      },
+      "standards": {
+        "title": "Professional Standards",
+        "text": "A public campaign promoting respect, safe practices, and professional conduct on and off the road."
+      }
+    }
+  },
+  "mission": {
+    "title": "Safety. Equity. Accountability. That's our road forward.",
+    "body": "The Women's Trucking Federation of Canada (WTFC) is building a stronger, safer, and more inclusive trucking industry. We champion women and underrepresented groups, expand career pathways, and advocate for drivers as skilled professionals who deserve respect, recognition, and safe working conditions.",
+    "missionLabel": "Our mission is to:",
+    "items": {
+      "elevate": "Elevate Standards — modernizing training, credentialing, and professional development across the industry",
+      "safety": "Promote Safety — leading public awareness campaigns and tackling the real-world safety challenges drivers face",
+      "community": "Build Community — fostering mentorship, retention, and allyship across fleets, terminals, classrooms, and boardrooms"
+    },
+    "closing": "By uniting drivers, industry leaders, and allies, WTFC is reshaping Canadian trucking where equity, safety, and professionalism aren't goals, they're the baseline.",
+    "cta": "Learn More"
+  },
+  "stats": {
+    "eyebrow": "Our Impact",
+    "title": "A decade of measurable change",
+    "items": {
+      "years": {
+        "label": "Years Strong"
+      },
+      "followers": {
+        "label": "Social Followers"
+      },
+      "corporate": {
+        "label": "Corporate Members"
+      },
+      "events": {
+        "label": "Events Hosted"
+      },
+      "placed": {
+        "label": "Women Placed in Roles"
+      },
+      "placementRate": {
+        "label": "Placement Rate"
+      }
+    },
+    "footnote": "Figures reflect WTFC programme reporting to date."
+  },
+  "sponsors": {
+    "eyebrow": "Partnership",
+    "title": "Invest in a stronger, safer industry",
+    "body": "Corporate partners underwrite our mentorship, youth, and safety programmes — and get direct access to a national network of transportation professionals.",
+    "cta": "Become a Sponsor",
+    "ctaSecondary": "Download Sponsorship Package"
+  },
+  "testimonials": {
+    "eyebrow": "Member Stories",
+    "title": "Real people, real career changes"
+  },
+  "logos": {
+    "eyebrow": "Corporate Members",
+    "title": "Trusted by fleets and suppliers across Canada"
+  },
+  "faq": {
+    "eyebrow": "Frequently Asked Questions",
+    "title": "How Can We Help You?",
+    "items": {
+      "who": {
+        "question": "Who can join WTFC?",
+        "answer": "Anyone who is positive and supportive of women in transportation. Despite the name, our membership is not limited to women — we welcome drivers, technicians, trainers, dispatchers, executives, students, and male allies. All board members volunteer their time."
+      },
+      "national": {
+        "question": "Is WTFC national or provincial?",
+        "answer": "National. WTFC operates across all Canadian provinces and territories, with chapters and volunteers in every region. Our programming — mentoring, youth outreach, safety campaigns, and events — runs coast to coast, and our career board lists roles nationwide."
+      },
+      "training": {
+        "question": "Do you run driver training?",
+        "answer": "We don't operate a driving school. What we do is raise standards: we promote industry training standards, advocate for recognized credentialing and professional development, and surface funded training programs (such as the Bredin Institute's equipment operator program) on our career board."
+      },
+      "mentorship": {
+        "question": "How does the mentorship program work?",
+        "answer": "You tell us what you're aiming for. We match you with someone who has already walked that road — a driver, a technician, a trainer, or an executive — for a minimum six-month commitment. Mentors and mentees meet monthly, and members also get access to group workshops and networking events."
+      },
+      "btb": {
+        "question": "What is \"Bridging the Barriers\"?",
+        "answer": "Our flagship annual conference. Bridging the Barriers brings together industry leaders, advocates, drivers, and professionals for a day of honest conversation, networking, and inspiration on breaking barriers and advancing the role of women in trucking. It runs in Ontario and Western Canada each year."
+      },
+      "sponsor": {
+        "question": "How can my company support WTFC?",
+        "answer": "Corporate membership and sponsorship both work. Sponsorship funds our mentorship, youth, and safety programmes directly and earns your organization visibility with a national audience of transportation professionals. Visit our Impact page for tier details, or get in touch and we'll build something specific to your goals."
+      }
+    }
+  },
+  "eventsSection": {
+    "eyebrow": "Save the Date",
+    "title": "Upcoming Events",
+    "viewAll": "View All Events",
+    "past": "Past Event",
+    "upcoming": "Upcoming",
+    "register": "Register Now",
+    "details": "View Details",
+    "empty": "No events on the calendar right now. Check back soon.",
+    "locationLabel": "Location"
+  },
+  "careersSection": {
+    "eyebrow": "Career Opportunities",
+    "title": "Drive Your Career Forward",
+    "viewAll": "View All Jobs",
+    "apply": "Apply Now",
+    "details": "View Details",
+    "empty": "No open positions right now. Check back soon.",
+    "posted": "Posted"
+  },
+  "newsletter": {
+    "eyebrow": "Stay in the Loop",
+    "title": "Stay in the Loop",
+    "body": "Get WTFC news, event announcements, and industry updates delivered straight to your inbox. No spam, unsubscribe anytime.",
+    "placeholderName": "First name (optional)",
+    "placeholderEmail": "Your email address",
+    "submit": "Join Newsletter",
+    "submitFooter": "Subscribe",
+    "loading": "Subscribing…",
+    "success": "You're on the list. Welcome to WTFC!",
+    "error": "Something went wrong. Please try again.",
+    "privacy": "We respect your inbox. Unsubscribe with one click, any time."
+  },
+  "cta": {
+    "title": "Ready to Join Us?",
+    "body": "Be part of a supportive community that's paving the way for future generations in the trucking industry",
+    "primary": "Become a Member",
+    "secondary": "Contact Us"
+  },
+  "footer": {
+    "aboutTitle": "About WTFC",
+    "aboutBody": "The Women's Trucking Federation of Canada is a national non-profit dedicated to empowering women, expanding opportunities, and inspiring youth to see trucking as a modern, rewarding career.",
+    "quickLinksTitle": "Quick Links",
+    "contactTitle": "Contact",
+    "contactLink": "Get in Touch",
+    "stayConnectedTitle": "Stay Connected",
+    "followUsTitle": "Follow Us",
+    "address": "Serving coast to coast, all of Canada",
+    "email": "inquiries@wtfc.ca",
+    "rights": "All rights reserved.",
+    "builtWith": "Web Design by:"
+  },
+  "aboutPage": {
+    "eyebrow": "About WTFC",
+    "title": "Empowering Women in Trucking",
+    "subtitle": "Building a stronger, more inclusive transportation industry across Canada",
+    "primaryCta": "Join Our Community",
+    "secondaryCta": "Meet Our Members",
+    "purposeEyebrow": "Our Purpose",
+    "purposeTitle": "Driving Equity. Advancing Safety. Strengthening Trucking.",
+    "purposeBody": "The Women's Trucking Federation of Canada is a non-profit organization established to encourage the employment of women in the Transportation Industry.",
+    "purposeBody2": "Our purpose is to promote personal growth and responsibility whether you're \"In the Office, under the Hood or behind the Wheel\". Despite the name, our membership is not limited to women — we welcome anyone who is positive and supportive of women in transportation.",
+    "purposeBody3": "We aim to provide a platform and open environment for women across the Transportation Industry to come together, problem solve, share ideas and help promote our industry to future generations as a viable career option.",
+    "pillars": {
+      "inclusive": "Inclusive Community",
+      "growth": "Professional Growth",
+      "leadership": "Industry Leadership"
+    },
+    "mentorshipEyebrow": "Mentorship in Action",
+    "mentorshipTitle": "Supporting the next generation of transportation professionals",
+    "objectivesEyebrow": "What We Stand For",
+    "objectivesTitle": "Our Core Objectives",
+    "objectivesSubtitle": "Guiding principles that drive our mission to transform the transportation industry",
+    "objectives": {
+      "empower": {
+        "title": "Empower Women",
+        "text": "Support women's personal growth, leadership development, and professional advancement in all areas of the trucking industry"
+      },
+      "employment": {
+        "title": "Expand Employment",
+        "text": "Increase employment opportunities for women and promote trucking as a rewarding and viable career path"
+      },
+      "training": {
+        "title": "Training Standards",
+        "text": "Improve and promote industry training standards to ensure professional excellence and safety"
+      },
+      "safety": {
+        "title": "Safety & Professionalism",
+        "text": "Promote public safety messaging and recognize drivers as qualified professionals"
+      },
+      "mentorship": {
+        "title": "Mentorship & Support",
+        "text": "Provide mentoring programs and foster unity between new and experienced members"
+      },
+      "allyship": {
+        "title": "Male Allyship",
+        "text": "Encourage and promote male allyship in supporting women's advancement in the industry"
+      }
+    },
+    "journeyEyebrow": "Our Journey",
+    "journeyTitle": "Key Milestones",
+    "journeySubtitle": "A decade of growth, impact, and community building",
+    "ctaTitle": "Ready to Join Our Community?",
+    "ctaBody": "All board members of WTFC volunteer their time. If you are passionate about paving the way for future generations entering our industry, joining us is easy!",
+    "ctaPrimary": "Become a Member",
+    "ctaSecondary": "Meet Our Board",
+    "boardEyebrow": "Who We Are",
+    "boardTitle": "Meet Our Board",
+    "boardBody": "Every director volunteers their time. Directors are elected by the membership and serve staggered two-year terms."
+  },
+  "eventsPage": {
+    "eyebrow": "Bridging the Barriers",
+    "title": "Connect, Learn & Grow Together",
+    "body": "Join us at conferences, workshops, and networking events designed to empower women in the trucking industry across Canada.",
+    "filterAll": "All Events",
+    "filterUpcoming": "Upcoming",
+    "filterPast": "Past",
+    "calendar": "View Full Calendar",
+    "detailSchedule": "Schedule",
+    "detailSpeakers": "Featured Speakers",
+    "detailFees": "Registration Fees",
+    "detailVenue": "Venue",
+    "detailAbout": "About this event",
+    "registerCta": "Register for this event",
+    "sponsorNote": "Sponsorships are available — contact bridgingthebarriers@wtfc.ca for details.",
+    "notFound": "Event not found",
+    "backToList": "All Events",
+    "dateLabel": "Date",
+    "venueLabel": "Venue",
+    "pastBadge": "Past Event",
+    "moreEvents": "More Events"
+  },
+  "careersPage": {
+    "eyebrow": "Career Board",
+    "title": "Drive Your Career Forward",
+    "body": "Discover exciting opportunities in the trucking and transportation industry. Join companies that value diversity and empower women in the workforce.",
+    "positions": "Open Positions",
+    "partners": "Partner Companies",
+    "womenPlaced": "Women Placed",
+    "placementRate": "Placement Rate",
+    "available": "Available Positions",
+    "jobType": "Job Type",
+    "allJobs": "All Jobs",
+    "fullTime": "Full Time",
+    "partTime": "Part Time",
+    "contract": "Contract",
+    "companyOverview": "Company Overview",
+    "requirements": "Requirements",
+    "responsibilities": "Responsibilities",
+    "benefits": "Benefits",
+    "whyTitle": "Why Join the Industry",
+    "hireTitle": "Looking to Hire?",
+    "hireBody": "Post your job openings on our Career Board and reach a diverse pool of talented professionals in the trucking and transportation industry.",
+    "postJob": "Post a Job",
+    "learnPartnerships": "Learn About Partnerships",
+    "employmentType": "Employment Type",
+    "postedOn": "Posted",
+    "viewDetails": "View Details",
+    "quickFacts": "Quick facts",
+    "location": "Location",
+    "backToBoard": "Career Board",
+    "company": "Company",
+    "applyNow": "Apply Now",
+    "applyNote": "Apply with your details"
+  },
+  "contactPage": {
+    "eyebrow": "We're Here to Help",
+    "title": "Get in Touch",
+    "body": "Have questions about membership, events, or partnerships? Our team is ready to assist you on your journey in the trucking industry.",
+    "sendMessage": "Send a Message",
+    "emailUs": "Email Us",
+    "emailBody": "Send us an email anytime",
+    "aiAssistant": "AI Assistant",
+    "aiBody": "Get instant answers 24/7",
+    "aiCta": "Click the chat icon below",
+    "reachTitle": "Our Reach",
+    "reachBody": "Serving coast to coast",
+    "reachValue": "All of Canada",
+    "formTitle": "Send us a Message",
+    "teamTitle": "Our Team",
+    "teamBody": "Dedicated to supporting women in trucking",
+    "hoursTitle": "Office Hours",
+    "hoursBody": "When to reach us",
+    "hoursWeekday": "Monday – Friday",
+    "hoursWeekdayTime": "9:00 AM – 5:00 PM EST",
+    "hoursWeekend": "Saturday – Sunday",
+    "hoursWeekendTime": "Closed",
+    "involvedTitle": "Get Involved",
+    "involvedBody": "Interested in becoming a member or supporting our mission to empower women in trucking?",
+    "involvedCta": "Become a Member",
+    "questionsTitle": "Still Have Questions?",
+    "questionsBody": "We're always here to help. Check out our resources or reach out directly and we'll get back to you as soon as possible.",
+    "learnAbout": "Learn About WTFC",
+    "emailDirect": "Email Us Directly",
+    "viewEvents": "View Upcoming Events"
+  },
+  "joinPage": {
+    "eyebrow": "Membership",
+    "title": "Join WTFC",
+    "body": "Become part of a supportive community that's driving change in the trucking industry",
+    "individual": {
+      "title": "Individual Membership",
+      "subtitle": "For professionals in the trucking industry"
+    },
+    "corporate": {
+      "title": "Corporate Membership",
+      "subtitle": "For companies and organizations"
+    },
+    "whyTitle": "Why Join WTFC?",
+    "why": {
+      "network": {
+        "title": "Network & Connect",
+        "text": "Build relationships with professionals across the trucking industry and expand your network nationwide"
+      },
+      "learn": {
+        "title": "Grow & Learn",
+        "text": "Access exclusive training resources, mentorship programs, and professional development opportunities"
+      },
+      "impact": {
+        "title": "Make an Impact",
+        "text": "Help shape the future of women in trucking and inspire the next generation of industry professionals"
+      }
+    },
+    "questionsTitle": "Have Questions?",
+    "questionsBody": "We're here to help! Contact us to learn more about membership benefits and how to join.",
+    "contactCta": "Contact Us",
+    "freeNote": "WTFC board members volunteer their time. Membership fees go directly to our programming — mentorship, youth outreach, and safety campaigns.",
+    "sponsorEyebrow": "Sponsorship",
+    "sponsorFormTitle": "Request Sponsorship Info",
+    "sponsorFormBody": "Tell us about your organization and we'll come back with a plan built around your goals.",
+    "applyTitle": "Membership Application",
+    "applyBody": "Tell us a little about yourself and we'll be in touch to complete your membership."
+  },
+  "impactPage": {
+    "eyebrow": "Transparency",
+    "title": "Annual Impact & Transparency Report",
+    "body": "Non-profits earn trust by showing their work. Here is what WTFC delivered, what it cost, and who is accountable for it.",
+    "yearLabel": "Reporting period",
+    "year": "2024 – 2025",
+    "allocationEyebrow": "Where the money goes",
+    "allocationTitle": "Allocation of program spending",
+    "allocationTotal": "Total program spending",
+    "allocation": {
+      "mentorship": {
+        "label": "Mentorship programmes",
+        "pct": 34
+      },
+      "events": {
+        "label": "Conferences & events",
+        "pct": 26
+      },
+      "youth": {
+        "label": "Youth & school outreach",
+        "pct": 18
+      },
+      "safety": {
+        "label": "Safety campaigns",
+        "pct": 14
+      },
+      "admin": {
+        "label": "Administration & governance",
+        "pct": 8
+      }
+    },
+    "outcomesEyebrow": "What it produced",
+    "outcomesTitle": "Programme outcomes",
+    "outcomes": {
+      "matches": {
+        "label": "Mentorship matches made",
+        "value": "640"
+      },
+      "retained": {
+        "label": "Mentees still in the industry",
+        "value": "94%"
+      },
+      "schools": {
+        "label": "Schools & career fairs reached",
+        "value": "38"
+      },
+      "attendees": {
+        "label": "Conference attendees in 2025",
+        "value": "1,180"
+      },
+      "volunteers": {
+        "label": "Active volunteers",
+        "value": "112"
+      },
+      "provinces": {
+        "label": "Provinces & territories with active chapters",
+        "value": "13"
+      }
+    },
+    "governanceEyebrow": "Accountability",
+    "governanceTitle": "Board of directors",
+    "governanceBody": "Every board member volunteers. Directors are elected by the membership and serve staggered two-year terms.",
+    "milestonesEyebrow": "Our Journey",
+    "milestonesTitle": "Key Milestones",
+    "sponsorCtaTitle": "Fund the next milestone",
+    "sponsorCtaBody": "Sponsorship is what turns this report into next year's results.",
+    "sponsorCtaButton": "Become a Sponsor",
+    "viewTiers": "View Sponsorship Tiers"
+  },
+  "forms": {
+    "optional": "optional",
+    "required": "required",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "subject": "Subject",
+    "message": "Your Message",
+    "company": "Company",
+    "role": "Your Role",
+    "province": "Province / Territory",
+    "membershipType": "Membership Type",
+    "membershipIndividual": "Individual",
+    "membershipCorporate": "Corporate",
+    "tier": "Sponsorship Tier",
+    "tierCustom": "Something else / let's talk",
+    "consent": "I'd like to receive WTFC news and event updates.",
+    "newsletterConsent": "Send me the WTFC newsletter.",
+    "send": "Send Message",
+    "joinSubmit": "Submit Membership",
+    "sponsorSubmit": "Request Sponsorship Info",
+    "sending": "Sending…",
+    "submitting": "Submitting…",
+    "contactSuccess": "Thanks — your message is on its way. We'll be in touch within two business days.",
+    "joinSuccess": "Welcome aboard! We've received your membership application and will follow up by email.",
+    "sponsorSuccess": "Thank you for your interest in partnering. A member of our team will reach out shortly.",
+    "errorGeneric": "Something went wrong. Please try again.",
+    "errorNetwork": "Couldn't reach the server. Check your connection and try again.",
+    "errors": {
+      "required": "This field is required",
+      "email": "Enter a valid email address",
+      "phone": "Enter a valid phone number",
+      "minLength": "Please write a little more",
+      "consent": "Please confirm to continue",
+      "invalid": "Please check this field"
+    }
+  },
+  "notFound": {
+    "title": "404 — This road ends here",
+    "body": "The page you're looking for has been moved or never existed. Let's get you back on the route.",
+    "cta": "Back to home"
+  }
+}

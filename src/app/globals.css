@@ -1,0 +1,216 @@
+@import "tailwindcss";
+
+/* ------------------------------------------------------------------ *
+ * WTFC design tokens — sampled directly from the live wtfc.ca stylesheet
+ * ------------------------------------------------------------------ */
+@theme {
+  /* Brand */
+  --color-brand-50: #fdf2fa;
+  --color-brand-100: #fbe5f5;
+  --color-brand-200: #f8c8ea;
+  --color-brand-300: #f09bd6;
+  --color-brand-400: #e262ba;
+  --color-brand-500: #c62fa0;
+  --color-brand-600: #b0298f;
+  --color-brand-700: #a02d8c;
+  --color-brand-800: #7d2169;
+  --color-brand-900: #5c1a4e;
+
+  /* Neutrals */
+  --color-ink: #1a1d23;
+  --color-body: #555c6d;
+  --color-muted: #374151;
+  --color-line: #e6e7ec;
+  --color-surface: #fafafa;
+  --color-night: #0e1014;
+
+  /* Typography */
+  --font-sans: var(--font-poppins), "Poppins", ui-sans-serif, system-ui, sans-serif;
+
+  /* Motion */
+  --ease-brand: cubic-bezier(0.22, 1, 0.36, 1);
+
+  /* Layout */
+  --container-page: 76rem;
+}
+
+@layer base {
+  *,
+  *::before,
+  *::after {
+    border-color: var(--color-line);
+  }
+
+  html {
+    scroll-behavior: smooth;
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    background-color: #fff;
+    color: var(--color-ink);
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    text-wrap: balance;
+  }
+
+  p {
+    text-wrap: pretty;
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--color-brand-500);
+    outline-offset: 3px;
+    border-radius: 4px;
+  }
+
+  ::selection {
+    background-color: var(--color-brand-200);
+    color: var(--color-brand-900);
+  }
+
+  /* Honour the OS "reduce motion" setting everywhere. */
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+      scroll-behavior: auto !important;
+    }
+  }
+}
+
+@layer components {
+  .container-page {
+    width: 100%;
+    max-width: var(--container-page);
+    margin-inline: auto;
+    padding-inline: 1.25rem;
+  }
+
+  @media (min-width: 768px) {
+    .container-page {
+      padding-inline: 2rem;
+    }
+  }
+
+  /* Soft magenta wash used for alternating page bands. */
+  .band-tint {
+    background:
+      radial-gradient(
+        60rem 30rem at 15% -10%,
+        rgb(198 47 160 / 0.07),
+        transparent 60%
+      ),
+      radial-gradient(
+        50rem 28rem at 95% 10%,
+        rgb(198 47 160 / 0.05),
+        transparent 60%
+      ),
+      #fff;
+  }
+
+  .band-surface {
+    background-color: var(--color-surface);
+  }
+
+  .text-gradient-brand {
+    background: linear-gradient(
+      100deg,
+      var(--color-brand-700),
+      var(--color-brand-500) 45%,
+      var(--color-brand-400)
+    );
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
+
+  /*
+   * Dark scrim that keeps white text legible over photography.
+   * Two stacked layers: an even one so the photo reads as texture rather than
+   * competing detail, plus a left-weighted one so headline copy sits on the
+   * darkest part of the frame.
+   */
+  .scrim-hero {
+    background:
+      linear-gradient(
+        to bottom,
+        rgb(14 16 20 / 0.34),
+        rgb(14 16 20 / 0.16) 38%,
+        rgb(14 16 20 / 0.46)
+      ),
+      linear-gradient(
+        to right,
+        rgb(14 16 20 / 0.86) 0%,
+        rgb(14 16 20 / 0.66) 45%,
+        rgb(14 16 20 / 0.3) 100%
+      );
+  }
+
+  .scrim-bottom {
+    background: linear-gradient(to top, rgb(14 16 20 / 0.75), transparent 55%);
+  }
+
+  .card-hover {
+    transition:
+      transform 0.4s var(--ease-brand),
+      box-shadow 0.4s var(--ease-brand),
+      border-color 0.4s var(--ease-brand);
+  }
+
+  .card-hover:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 20px 45px -25px rgb(198 47 160 / 0.55);
+  }
+}
+
+@layer utilities {
+  .animate-marquee {
+    animation: wtfc-marquee var(--marquee-duration, 42s) linear infinite;
+  }
+
+  .group:hover .animate-marquee,
+  .marquee-wrap:hover .animate-marquee {
+    animation-play-state: paused;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .animate-marquee {
+      animation: none;
+    }
+  }
+}
+
+@keyframes wtfc-marquee {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+
+@keyframes wtfc-shimmer {
+  0% {
+    background-position: -180% 0;
+  }
+  100% {
+    background-position: 180% 0;
+  }
+}

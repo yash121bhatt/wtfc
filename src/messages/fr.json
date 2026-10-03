@@ -1,0 +1,558 @@
+{
+  "common": {
+    "skipToContent": "Aller au contenu principal",
+    "menu": "Menu",
+    "close": "Fermer",
+    "openMenu": "Ouvrir le menu",
+    "closeMenu": "Fermer le menu",
+    "readMore": "Lire la suite",
+    "viewAll": "Voir tout",
+    "learnMore": "En savoir plus",
+    "loading": "Chargement…",
+    "backToHome": "Retour à l'accueil",
+    "page": "Page",
+    "newWindow": "s'ouvre dans une nouvelle fenêtre"
+  },
+  "meta": {
+    "home": {
+      "title": "Fédération des femmes camionneuses du Canada | Autonomiser les femmes dans le camionnage",
+      "description": "La FFCC est un organisme national à but non lucratif qui fait progresser la sécurité, les occasions et l'inclusion dans le secteur du camionnage canadien. Joignez-vous à une communauté qui autonomise les femmes du transport."
+    },
+    "about": {
+      "title": "À propos | Fédération des femmes camionneuses du Canada",
+      "description": "Découvrez la Fédération des femmes camionneuses du Canada — notre mission, nos objectifs et les jalons qui ont marqué une décennie de défense du camionnage."
+    },
+    "events": {
+      "title": "Événements | Fédération des femmes camionneuses du Canada",
+      "description": "Conférences, ateliers et activités de-maillage qui autonomisent les femmes du camionnage partout au Canada."
+    },
+    "careers": {
+      "title": "Carrières | Fédération des femmes camionneuses du Canada",
+      "description": "Découvrez des emplois en camionnage et en transport auprès d'entreprises qui valorisent la diversité et autonomisent les femmes."
+    },
+    "contact": {
+      "title": "Nous joindre | Fédération des femmes camionneuses du Canada",
+      "description": "Des questions sur l'adhésion, les événements ou les partenariats? Notre équipe est là pour vous aider."
+    },
+    "join": {
+      "title": "Adhérer | Fédération des femmes camionneuses du Canada",
+      "description": "Faites partie d'une communauté solidaire qui transforme le camionnage. Adhésion individuelle et corporative."
+    },
+    "impact": {
+      "title": "Rapport annuel d'impact et de transparence | Fédération des femmes camionneuses du Canada",
+      "description": "Où va chaque dollar, ce que nous avons accompli et qui rend des comptes."
+    },
+    "notFound": {
+      "title": "Page introuvable | Fédération des femmes camionneuses du Canada",
+      "description": "La page que vous cherchez a été déplacée ou n'existe plus."
+    }
+  },
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "events": "Événements",
+    "careers": "Carrières",
+    "impact": "Impact",
+    "contact": "Contact",
+    "join": "Adhérer",
+    "memberLogin": "Espace membre",
+    "adminLogin": "Espace admin",
+    "primary": {
+      "label": "Navigation principale"
+    },
+    "footer": {
+      "label": "Navigation de pied de page"
+    },
+    "menuGroups": {
+      "getInvolved": "Participer",
+      "learnMore": "En savoir plus"
+    },
+    "openMenu": "Ouvrir le menu",
+    "closeMenu": "Fermer le menu"
+  },
+  "langSwitcher": {
+    "label": "Changer de langue",
+    "en": "English",
+    "fr": "Français"
+  },
+  "hero": {
+    "eyebrow": "Depuis 2016 · Organisme national à but non lucratif",
+    "title": "Au volant du changement dans l'industrie du camionnage canadienne",
+    "subtitle": "Et nous espérons que vous vous joindrez à nous pour façonner l'avenir du camionnage.",
+    "body": "La Fédération des femmes camionneuses du Canada (FFCC) est un organisme national à but non lucratif qui fait progresser la sécurité, les occasions et l'inclusion dans tout le secteur du camionnage. Nous autonomisons les femmes, mobilisons les jeunes et réunissons chauffeurs, techniciens, formateurs, cadres et alliés masculins afin de bâtir une industrie moderne, résiliente et diversifiée. Depuis 2016, nous sommes devenus un réseau puissant ancré dans le mentorat, la défense des droits et un impact concret — car ceci n'est pas qu'une organisation, c'est une communauté.",
+    "scrollHint": "Faites défiler pour explorer",
+    "slideOf": "Diapositive {current} sur {total}"
+  },
+  "quickLinks": {
+    "events": {
+      "title": "Événements à venir",
+      "text": "Consultez et inscrivez-vous aux conférences"
+    },
+    "registration": {
+      "title": "Inscription aux conférences",
+      "text": "Inscrivez-vous à Bridging the Barriers"
+    },
+    "awards": {
+      "title": "Prix et nominations",
+      "text": "Woman With Impact et prix de la FFCC"
+    }
+  },
+  "partners": {
+    "eyebrow": "Nos partenaires de confiance",
+    "title": "Soutenir les femmes camionneuses grâce à des produits et des ressources de qualité",
+    "cta": "Visiter le site",
+    "ctaShop": "Magasiner",
+    "ctaWatch": "Voir les vidéos",
+    "footNote": "Les partenaires de la FFCC bâtissent une industrie plus sûre et plus inclusive — avec un meilleur équipement de protection, des équipes plus solides et une réelle responsabilité."
+  },
+  "offer": {
+    "eyebrow": "Ce que nous offrons",
+    "title": "La diversité qui performe",
+    "body": "Du mentorat à la défense des droits, de la mobilisation des jeunes aux normes professionnelles — nos programmes transforment les bonnes intentions en changements mesurables à tous les niveaux de l'industrie.",
+    "items": {
+      "mentorship": {
+        "title": "Mentorat et rétention",
+        "text": "Jumelée avec un chauffeur, un mentor ou un cadre expérimenté pendant au moins six mois. Nous avons jumelé des milliers de femmes avec les personnes qui les font avancer."
+      },
+      "youth": {
+        "title": "Jeunesse et écoles",
+        "text": "Carrières en mouvement amène la FFCC en classe, montrant aux élèves la réalité du camionnage moderne — la technologie, la logistique et celles et ceux qui les font fonctionner."
+      },
+      "advocacy": {
+        "title": "Défense et politiques",
+        "text": "Nous portons la voix de l'industrie dans les dossiers de la sécurité, de l'équité d'emploi et de la reconnaissance des chauffeurs comme professionnels qualifiés."
+      },
+      "standards": {
+        "title": "Normes professionnelles",
+        "text": "Une campagne publique qui promeut le respect, les pratiques sécuritaires et la conduite professionnelle sur la route comme ailleurs."
+      }
+    }
+  },
+  "mission": {
+    "title": "Sécurité. Équité. Responsabilité. C'est notre voie de l'avant.",
+    "body": "La Fédération des femmes camionneuses du Canada (FFCC) bâtit une industrie du camionnage plus forte, plus sûre et plus inclusive. Nous défendons les femmes et les groupes sous-représentés, élargissons les parcours de carrière et plaidons pour que les chauffeurs soient reconnus comme des professionnels qualifiés qui méritent le respect, la reconnaissance et des conditions de travail sécuritaires.",
+    "missionLabel": "Notre mission est de :",
+    "items": {
+      "elevate": "Élever les normes — moderniser la formation, la certification et le perfectionnement professionnel dans toute l'industrie",
+      "safety": "Promouvoir la sécurité — mener des campagnes de sensibilisation publique et s'attaquer aux défis de sécurité concrets auxquels les chauffeurs font face",
+      "community": "Bâtir la communauté — favoriser le mentorat, la rétention et la solidarité dans les flottes, les terminaux, les salles de classe et les conseils d'administration"
+    },
+    "closing": "En réunissant chauffeurs, chefs de file de l'industrie et alliés, la FFCC transforme le camionnage canadien où l'équité, la sécurité et le professionnalisme ne sont plus des objectifs, mais la norme.",
+    "cta": "En savoir plus"
+  },
+  "stats": {
+    "eyebrow": "Notre impact",
+    "title": "Une décennie de changement mesurable",
+    "items": {
+      "years": {
+        "label": "Années de solidité"
+      },
+      "followers": {
+        "label": "Abonnés sur les réseaux"
+      },
+      "corporate": {
+        "label": "Membres corporatifs"
+      },
+      "events": {
+        "label": "Événements organisés"
+      },
+      "placed": {
+        "label": "Femmes placées en emploi"
+      },
+      "placementRate": {
+        "label": "Taux de placement"
+      }
+    },
+    "footnote": "Chiffres issus des rapports de programmes de la FFCC à ce jour."
+  },
+  "sponsors": {
+    "eyebrow": "Partenariat",
+    "title": "Investissez dans une industrie plus forte et plus sûre",
+    "body": "Nos partenaires corporatifs financent nos programmes de mentorat, de jeunesse et de sécurité — et accèdent directement à un réseau national de professionnels du transport.",
+    "cta": "Devenir partenaire",
+    "ctaSecondary": "Télécharger le programme de partenariat"
+  },
+  "testimonials": {
+    "eyebrow": "Témoignages",
+    "title": "Des vraies personnes, des vrais changements de carrière"
+  },
+  "logos": {
+    "eyebrow": "Membres corporatifs",
+    "title": "La confiance de flottes et de fournisseurs d'un bout à l'autre du Canada"
+  },
+  "faq": {
+    "eyebrow": "Questions fréquentes",
+    "title": "Comment pouvons-nous vous aider?",
+    "items": {
+      "who": {
+        "question": "Qui peut adhérer à la FFCC?",
+        "answer": "Toute personne qui est positive et favorable à la promotion des femmes dans le transport. Malgré le nom, notre adhésion n'est pas limitée aux femmes — nous accueillons chauffeurs, techniciens, formateurs, répartiteurs, cadres, étudiants et alliés masculins. Tous les membres du conseil bénévolent leur temps."
+      },
+      "national": {
+        "question": "La FFCC est-elle nationale ou provinciale?",
+        "answer": "Nationale. La FFCC intervient dans toutes les provinces et tous les territoires du Canada, avec des sections et des bénévoles dans chaque région. Nos programmes — mentorat, outreach jeunesse, campagnes de sécurité et événements — se déroulent d'un bout à l'autre du pays, et notre babillard des carrières liste des emplois partout au Canada."
+      },
+      "training": {
+        "question": "Offrez-vous une formation de conduite?",
+        "answer": "Nous ne sommes pas une école de conduite. Ce que nous faisons, c'est élever les normes : nous promouvons les normes de formation de l'industrie, plaidons pour la reconnaissance des certifications et du perfectionnement professionnel, et affichons sur notre babillard des programmes de formation financés (comme le programme d'opérateurs d'équipement entièrement financé de l'Institut Bredin)."
+      },
+      "mentorship": {
+        "question": "Comment fonctionne le programme de mentorat?",
+        "answer": "Dites-nous où vous voulez aller. Nous vous jumelons avec une personne qui a déjà parcouru cette route — un chauffeur, un technicien, un formateur ou un cadre — pour un engagement d'au moins six mois. Mentor et mentee se rencontrent une fois par mois, et les membres ont aussi accès à des ateliers de groupe et à des activités de maillage."
+      },
+      "btb": {
+        "question": "Qu'est-ce que « Bridging the Barriers »?",
+        "answer": "Notre conférence annuelle phare. Bridging the Barriers réunit chefs de file de l'industrie, défenseurs, chauffeurs et professionnels pour une journée de conversations franches, de maillage et d'inspiration sur la destruction des barrières et l'avancement du rôle des femmes dans le camionnage. Elle se tient en Ontario et dans l'Ouest canadien chaque année."
+      },
+      "sponsor": {
+        "question": "Comment mon entreprise peut-elle soutenir la FFCC?",
+        "answer": "L'adhésion corporative et le parrainage fonctionnent tous les deux. Le parrainage finance directement nos programmes de mentorat, de jeunesse et de sécurité, et assure à votre organisation une visibilité auprès d'un public national de professionnels du transport. Consultez notre page Impact pour les détails des paliers, ou communiquez avec nous et nous construirons une offre adaptée à vos objectifs."
+      }
+    }
+  },
+  "eventsSection": {
+    "eyebrow": "À noter à votre agenda",
+    "title": "Événements à venir",
+    "viewAll": "Voir tous les événements",
+    "past": "Événement passé",
+    "upcoming": "À venir",
+    "register": "S'inscrire",
+    "details": "Voir les détails",
+    "empty": "Aucun événement à l'horaire pour le moment. Revenez bientôt.",
+    "locationLabel": "Lieu"
+  },
+  "careersSection": {
+    "eyebrow": "Occasions d'emploi",
+    "title": "Faites avancer votre carrière",
+    "viewAll": "Voir toutes les offres",
+    "apply": "Postuler",
+    "details": "Voir les détails",
+    "empty": "Aucun poste ouvert pour le moment. Revenez bientôt.",
+    "posted": "Publié"
+  },
+  "newsletter": {
+    "eyebrow": "Restez dans le coup",
+    "title": "Restez dans le coup",
+    "body": "Recevez les nouvelles de la FFCC, les annonces d'événements et les mises à jour de l'industrie directement dans votre boîte courriel. Aucun pourriel, désabonnement en un clic.",
+    "placeholderName": "Prénom (facultatif)",
+    "placeholderEmail": "Votre adresse courriel",
+    "submit": "S'abonner",
+    "submitFooter": "S'abonner",
+    "loading": "Inscription…",
+    "success": "Vous êtes sur la liste. Bienvenue à la FFCC!",
+    "error": "Une erreur est survenue. Veuillez réessayer.",
+    "privacy": "Nous respectons votre boîte courriel. Désabonnez-vous en un clic, quand vous voulez."
+  },
+  "cta": {
+    "title": "Prêt à nous joindre?",
+    "body": "Faites partie d'une communauté solidaire qui pave la voie aux futures générations dans l'industrie du camionnage",
+    "primary": "Devenir membre",
+    "secondary": "Nous joindre"
+  },
+  "footer": {
+    "aboutTitle": "À propos de la FFCC",
+    "aboutBody": "La Fédération des femmes camionneuses du Canada est un organisme national à but non lucratif dédié à l'autonomisation des femmes, à l'expansion des occasions et à l'inspiration de la jeunesse à voir le camionnage comme une carrière moderne et récompensante.",
+    "quickLinksTitle": "Liens rapides",
+    "contactTitle": "Contact",
+    "contactLink": "Nous joindre",
+    "stayConnectedTitle": "Restez Branchés",
+    "followUsTitle": "Suivez-nous",
+    "address": "De coast à coast, partout au Canada",
+    "email": "inquiries@wtfc.ca",
+    "rights": "Tous droits réservés.",
+    "builtWith": "Conception web :"
+  },
+  "aboutPage": {
+    "eyebrow": "À propos de la FFCC",
+    "title": "Autonomiser les femmes dans le camionnage",
+    "subtitle": "Bâtir une industrie du transport plus forte et plus inclusive partout au Canada",
+    "primaryCta": "Joindre notre communauté",
+    "secondaryCta": "Rencontrer nos membres",
+    "purposeEyebrow": "Notre raison d'être",
+    "purposeTitle": "Faire progresser l'équité. Faire progresser la sécurité. Renforcer le camionnage.",
+    "purposeBody": "La Fédération des femmes camionneuses du Canada est un organisme à but non lucratif fondé afin d'encourager l'emploi des femmes dans l'industrie du transport.",
+    "purposeBody2": "Notre raison d'être est de promouvoir l'éloignement personnel et la responsabilité, que vous soyez « au bureau, sous le capot ou derrière le volant ». Malgré le nom, notre adhésion n'est pas limitée aux femmes — nous accueillons toute personne positive et favorable à la promotion des femmes dans le transport.",
+    "purposeBody3": "Nous voulons offrir une plateforme et un environnement ouvert où les femmes de l'industrie du transport peuvent se réunir, résoudre des problèmes, échanger des idées et aider à promouvoir notre industrie auprès des générations futures comme option de carrière viable.",
+    "pillars": {
+      "inclusive": "Communauté inclusive",
+      "growth": "Développement professionnel",
+      "leadership": "Leadership de l'industrie"
+    },
+    "mentorshipEyebrow": "Le mentorat en action",
+    "mentorshipTitle": "Soutenir la prochaine génération de professionnels du transport",
+    "objectivesEyebrow": "Ce qui nous guide",
+    "objectivesTitle": "Nos objectifs fondamentaux",
+    "objectivesSubtitle": "Les principes qui orientent notre mission de transformer l'industrie du transport",
+    "objectives": {
+      "empower": {
+        "title": "Autonomiser les femmes",
+        "text": "Soutenir l'éloignement personnel, le développement du leadership et l'avancement professionnel des femmes dans tous les aspects de l'industrie du camionnage"
+      },
+      "employment": {
+        "title": "Élargir l'emploi",
+        "text": "Augmenter les occasions d'emploi pour les femmes et promouvoir le camionnage comme un parcours de carrière récompensant et viable"
+      },
+      "training": {
+        "title": "Normes de formation",
+        "text": "Améliorer et promouvoir les normes de formation de l'industrie afin d'assurer l'excellence professionnelle et la sécurité"
+      },
+      "safety": {
+        "title": "Sécurité et professionnalisme",
+        "text": "Promouvoir des messages de sécurité publique et reconnaître les chauffeurs comme des professionnels qualifiés"
+      },
+      "mentorship": {
+        "title": "Mentorat et soutien",
+        "text": "Offrir des programmes de mentorat et favoriser l'unité entre les nouveaux membres et les membres chevronnés"
+      },
+      "allyship": {
+        "title": "Solidarité masculine",
+        "text": "Encourager et promouvoir la solidarité masculine dans l'appui à l'avancement des femmes dans l'industrie"
+      }
+    },
+    "journeyEyebrow": "Notre parcours",
+    "journeyTitle": "Jalons clés",
+    "journeySubtitle": "Une décennie de croissance, d'impact et de construction communautaire",
+    "ctaTitle": "Prêt à joindre notre communauté?",
+    "ctaBody": "Tous les membres du conseil de la FFCC bénévolat leur temps. Si vous êtes passionné par l'ouverture de la voie aux futures générations qui entrent dans notre industrie, nous joindre est simple!",
+    "ctaPrimary": "Devenir membre",
+    "ctaSecondary": "Rencontrer notre conseil",
+    "boardEyebrow": "Qui nous sommes",
+    "boardTitle": "Rencontrer notre conseil",
+    "boardBody": "Chaque administrateur bénévolat son temps. Les administrateurs sont élus par les membres et exercent des mandats de deux ans, échelonnés."
+  },
+  "eventsPage": {
+    "eyebrow": "Bridging the Barriers",
+    "title": "Connectez-vous, apprenez et grandissez ensemble",
+    "body": "Joignez-vous à nos conférences, ateliers et activités de maillage conçus pour autonomiser les femmes de l'industrie du camionnage partout au Canada.",
+    "filterAll": "Tous les événements",
+    "filterUpcoming": "À venir",
+    "filterPast": "Passés",
+    "calendar": "Voir le calendrier complet",
+    "detailSchedule": "Horaire",
+    "detailSpeakers": "Conférencières vedettes",
+    "detailFees": "Frais d'inscription",
+    "detailVenue": "Lieu",
+    "detailAbout": "À propos de cet événement",
+    "registerCta": "S'inscrire à cet événement",
+    "sponsorNote": "Des opportunities de parrainage sont offertes — communiquez avec bridgingthebarriers@wtfc.ca pour les détails.",
+    "notFound": "Événement introuvable",
+    "backToList": "Tous les événements",
+    "dateLabel": "Date",
+    "venueLabel": "Lieu",
+    "pastBadge": "Événement passé",
+    "moreEvents": "Autres événements"
+  },
+  "careersPage": {
+    "eyebrow": "Babillard des carrières",
+    "title": "Faites avancer votre carrière",
+    "body": "Découvrez des occasions passionnantes dans l'industrie du camionnage et du transport. Joignez-vous à des entreprises qui valorisent la diversité et autonomisent les femmes.",
+    "positions": "Postes ouverts",
+    "partners": "Entreprises partenaires",
+    "womenPlaced": "Femmes placées",
+    "placementRate": "Taux de placement",
+    "available": "Postes disponibles",
+    "jobType": "Type de poste",
+    "allJobs": "Tous les postes",
+    "fullTime": "Temps plein",
+    "partTime": "Temps partiel",
+    "contract": "Contrat",
+    "companyOverview": "À propos de l'entreprise",
+    "requirements": "Exigences",
+    "responsibilities": "Responsabilités",
+    "benefits": "Avantages",
+    "whyTitle": "Pourquoi joindre l'industrie",
+    "hireTitle": "Vous embauchez?",
+    "hireBody": "Publiez vos offres sur notre babillard des carrières et rayonnez auprès d'un vivier diversifié de professionnels et professionnelles du camionnage et du transport.",
+    "postJob": "Publier un emploi",
+    "learnPartnerships": "En savoir plus sur les partenariats",
+    "employmentType": "Type d'emploi",
+    "postedOn": "Publié",
+    "viewDetails": "Voir les détails",
+    "quickFacts": "En bref",
+    "location": "Lieu",
+    "backToBoard": "Babillard des carrières",
+    "company": "Entreprise",
+    "applyNow": "Postuler",
+    "applyNote": "Postulez avec vos coordonnées"
+  },
+  "contactPage": {
+    "eyebrow": "Nous sommes là pour vous",
+    "title": "Nous joindre",
+    "body": "Des questions sur l'adhésion, les événements ou les partenariats? Notre équipe est prête à vous accompagner dans votre parcours dans l'industrie du camionnage.",
+    "sendMessage": "Envoyer un message",
+    "emailUs": "Nous écrire",
+    "emailBody": "Écrivez-nous à tout moment",
+    "aiAssistant": "Assistant IA",
+    "aiBody": "Obtenez des réponses instantanées, 24 h sur 24",
+    "aiCta": "Cliquez sur l'icône de clavardage ci-dessous",
+    "reachTitle": "Notre portée",
+    "reachBody": "Au service de tout le pays",
+    "reachValue": "Partout au Canada",
+    "formTitle": "Envoyez-nous un message",
+    "teamTitle": "Notre équipe",
+    "teamBody": "Dédiée à l'appui des femmes camionneuses",
+    "hoursTitle": "Heures d'ouverture",
+    "hoursBody": "Quand nous joindre",
+    "hoursWeekday": "Lundi – vendredi",
+    "hoursWeekdayTime": "9 h – 17 h HE",
+    "hoursWeekend": "Samedi – dimanche",
+    "hoursWeekendTime": "Fermé",
+    "involvedTitle": "Participer",
+    "involvedBody": "Vous souhaitez devenir membre ou appuyer notre mission d'autonomiser les femmes dans le camionnage?",
+    "involvedCta": "Devenir membre",
+    "questionsTitle": "Encore des questions?",
+    "questionsBody": "Nous sommes toujours là pour vous aider. Consultez nos ressources ou communiquez directement avec nous et nous vous répondrons dès que possible.",
+    "learnAbout": "En savoir plus sur la FFCC",
+    "emailDirect": "Nous écrire directement",
+    "viewEvents": "Voir les événements à venir"
+  },
+  "joinPage": {
+    "eyebrow": "Adhésion",
+    "title": "Adhérer à la FFCC",
+    "body": "Faites partie d'une communauté solidaire qui transforme l'industrie du camionnage",
+    "individual": {
+      "title": "Adhésion individuelle",
+      "subtitle": "Pour les professionnels et professionnelles du camionnage"
+    },
+    "corporate": {
+      "title": "Adhésion corporative",
+      "subtitle": "Pour les entreprises et organisations"
+    },
+    "whyTitle": "Pourquoi adhérer à la FFCC?",
+    "why": {
+      "network": {
+        "title": "Réseau et liens",
+        "text": "Bâtissez des relations avec des professionnels de l'industrie du camionnage et agrandissez votre réseau à l'échelle nationale"
+      },
+      "learn": {
+        "title": "Grandir et apprendre",
+        "text": "Accédez à des ressources de formation exclusives, à des programmes de mentorat et à des occasions de perfectionnement professionnel"
+      },
+      "impact": {
+        "title": "Faire une différence",
+        "text": "Aidez à façonner l'avenir des femmes dans le camionnage et inspirez la prochaine génération de professionnels de l'industrie"
+      }
+    },
+    "questionsTitle": "Des questions?",
+    "questionsBody": "Nous sommes là pour vous aider! Communiquez avec nous pour en savoir plus sur les avantages de l'adhésion et sur la façon de nous joindre.",
+    "contactCta": "Nous joindre",
+    "freeNote": "Les membres du conseil de la FFCC bénévolat leur temps. Les frais d'adhésion vont directement à nos programmes — mentorat, outreach jeunesse et campagnes de sécurité.",
+    "sponsorEyebrow": "Parrainage",
+    "sponsorFormTitle": "Demander l'information sur le parrainage",
+    "sponsorFormBody": "Parlez-nous de votre organisation et nous reviendrons vers vous avec un plan adapté à vos objectifs.",
+    "applyTitle": "Demande d'adhésion",
+    "applyBody": "Parlez-nous un peu de vous et nous vous contacterons pour finaliser votre adhésion."
+  },
+  "impactPage": {
+    "eyebrow": "Transparence",
+    "title": "Rapport annuel d'impact et de transparence",
+    "body": "Les organismes à but non lucratif gagnent la confiance en montrant leurs résultats. Voici ce que la FFCC a accompli, ce que cela a coûté, et qui en rend compte.",
+    "yearLabel": "Période couverte",
+    "year": "2024 – 2025",
+    "allocationEyebrow": "Où va l'argent",
+    "allocationTitle": "Répartition des dépenses de programme",
+    "allocationTotal": "Total des dépenses de programme",
+    "allocation": {
+      "mentorship": {
+        "label": "Programmes de mentorat",
+        "pct": 34
+      },
+      "events": {
+        "label": "Conférences et événements",
+        "pct": 26
+      },
+      "youth": {
+        "label": "Outreach jeunesse et scolaire",
+        "pct": 18
+      },
+      "safety": {
+        "label": "Campagnes de sécurité",
+        "pct": 14
+      },
+      "admin": {
+        "label": "Administration et gouvernance",
+        "pct": 8
+      }
+    },
+    "outcomesEyebrow": "Ce que ça a produit",
+    "outcomesTitle": "Résultats des programmes",
+    "outcomes": {
+      "matches": {
+        "label": "Jumelages de mentorat réalisés",
+        "value": "640"
+      },
+      "retained": {
+        "label": "Mentees toujours dans l'industrie",
+        "value": "94 %"
+      },
+      "schools": {
+        "label": "Écoles et salons de carrière joints",
+        "value": "38"
+      },
+      "attendees": {
+        "label": "Participants à la conférence en 2025",
+        "value": "1 180"
+      },
+      "volunteers": {
+        "label": "Bénévoles actifs",
+        "value": "112"
+      },
+      "provinces": {
+        "label": "Provinces et territoires avec sections actives",
+        "value": "13"
+      }
+    },
+    "governanceEyebrow": "Responsabilité",
+    "governanceTitle": "Conseil d'administration",
+    "governanceBody": "Chaque membre du conseil bénévolat son temps. Les administrateurs sont élus par les membres et exercent des mandats de deux ans, échelonnés.",
+    "milestonesEyebrow": "Notre parcours",
+    "milestonesTitle": "Jalons clés",
+    "sponsorCtaTitle": "Financez le prochain jalon",
+    "sponsorCtaBody": "C'est le parrainage qui transforme ce rapport en résultats pour l'an prochain.",
+    "sponsorCtaButton": "Devenir partenaire",
+    "viewTiers": "Voir les paliers de parrainage"
+  },
+  "forms": {
+    "optional": "facultatif",
+    "required": "obligatoire",
+    "firstName": "Prénom",
+    "lastName": "Nom",
+    "email": "Adresse courriel",
+    "phone": "Numéro de téléphone",
+    "subject": "Objet",
+    "message": "Votre message",
+    "company": "Entreprise",
+    "role": "Votre fonction",
+    "province": "Province / Territoire",
+    "membershipType": "Type d'adhésion",
+    "membershipIndividual": "Individuelle",
+    "membershipCorporate": "Corporative",
+    "tier": "Palier de parrainage",
+    "tierCustom": "Autre chose / parlons-en",
+    "consent": "J'aimerais recevoir les nouvelles et les annonces d'événements de la FFCC.",
+    "newsletterConsent": "Je veux recevoir le bulletin de la FFCC.",
+    "send": "Envoyer le message",
+    "joinSubmit": "Envoyer la demande",
+    "sponsorSubmit": "Demander l'information",
+    "sending": "Envoi…",
+    "submitting": "Envoi…",
+    "contactSuccess": "Merci — votre message est parti. Nous vous répondrons dans les deux jours ouvrables.",
+    "joinSuccess": "Bienvenue à bord! Nous avons reçu votre demande d'adhésion et nous vous écrirons bientôt.",
+    "sponsorSuccess": "Merci de votre intérêt pour un partenariat. Un membre de notre équipe vous contactera sous peu.",
+    "errorGeneric": "Une erreur est survenue. Veuillez réessayer.",
+    "errorNetwork": "Impossible de joindre le serveur. Vérifiez votre connexion et réessayez.",
+    "errors": {
+      "required": "Ce champ est obligatoire",
+      "email": "Saisissez une adresse courriel valide",
+      "phone": "Saisissez un numéro de téléphone valide",
+      "minLength": "Veuillez en écrire un peu plus",
+      "consent": "Veuillez confirmer pour continuer",
+      "invalid": "Veuillez vérifier ce champ"
+    }
+  },
+  "notFound": {
+    "title": "404 — Cette route s'arrête ici",
+    "body": "La page que vous cherchez a été déplacée ou n'a jamais existé. Reprenons la route.",
+    "cta": "Retour à l'accueil"
+  }
+}
